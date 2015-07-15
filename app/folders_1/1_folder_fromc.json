@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1 folder from level1",
+    "name": "1 folder from level1",
+    "flag":false
+  },
+  {
+    "id": "2 folder from level1",
+    "name": "2 folder from level1",
+    "flag":false
+  },
+  {
+    "id": "1 file from level1",
+    "name": "1 file from level1",
+    "flag":true
+  },
+  {
+    "id": "2 file from level1",
+    "name": "2 file from level1",
+    "flag":true
+  },
+  {
+    "id": "3 folder from level1",
+    "name": "3 folder from level1",
+    "flag":false
+  },
+  {
+    "id": "3 file from level1",
+    "name": "3 file from level1",
+    "flag":true
+  }
+]
